@@ -1,0 +1,40 @@
+{
+    "topic_1" : "Test 1",
+    "topic_2" : "Test 2",
+    "label_1" :"Layout and style",
+    "label_2" :"Form and table",
+    "move_shape":"move shape",
+    "move_position":"move position",
+    "title":"Title",
+    "firstName":"FirstName",
+    "lastName":"LastName",
+    "dateOfBirth":"Birthday",
+    "nationality":"Nationality",
+    "gender":"Gender",
+    "male":"Male",
+    "female":"Female",
+    "Unisex":"Unisex",
+    "mobilePhone":"Mobile Phone",
+    "dateCode":"dd/mm/yyyy",
+    "paceholder":"please select",
+    "salary":"Expected salary",
+    "citizenId":"CitizenId",
+    "passport":"Passport Id",
+    "submit":"submit",
+    "delete":"Delete",
+    "selectAll":"Select All",
+    "reset":"Reset",
+    "edit":"Edit",
+    "next":"Next",
+    "prev":"Prev",
+    "mr":"Mr.",
+    "miss":"Miss.",
+    "mrs":"Mrs.",
+    "thailand":"Thai",
+    "japanese":"Japanese",
+    "deleteAll":"Delete All"
+
+    
+    
+    
+}
